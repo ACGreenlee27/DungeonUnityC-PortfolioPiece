@@ -1,0 +1,1 @@
+See the .cs file for a super simple demo script to play sounds from an audiosource when a key or key combination is pressed. In this case, this is the simple way I chose to handle footstep sounds for walking and sprinting in my demo project. 
